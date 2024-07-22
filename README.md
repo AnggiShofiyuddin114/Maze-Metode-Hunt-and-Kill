@@ -2,8 +2,9 @@
 &emsp;&emsp;Program ini bertujuan untuk menciptakan *maze* secara otomatis menggunakan algoritma *Hunt and Kill*. *Maze* yang dihasilkan akan memiliki struktur acak yang menarik dan dapat digunakan dalam berbagai aplikasi, seperti  permainan, simulasi, atau eksperimen lainnya.<br/><br/>
 ***Environment***<br/>
 Program ini dijalankan menggunakan bahasa Python, dengan *library*:<br/>
-&emsp;&emsp;•	Pygame<br/>
-&emsp;&emsp;•	Random<br/><br/>
+* Pygame<br/>
+* Random<br/><br/>
+
 **Screenshot Hasil Program**<br/>
 *Width* = 600 dan *Height* = 600<br/>
 *FPS* = 100<br/>
